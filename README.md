@@ -3,7 +3,7 @@
 I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo University interested in Software Development and problem-solving.
 
 
-## ⚡ Technologies
+## ⚡ Skills
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
