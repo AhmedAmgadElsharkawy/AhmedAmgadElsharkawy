@@ -8,5 +8,5 @@ Java, C++, SQL, OOP
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/Ahmed Amgad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineer-ahmed-amgad/)
+[![linkedin](https://img.shields.io/badge/AhmedAmgad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineer-ahmed-amgad/)
 
