@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
-I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo University.
-I'm interested in software development and problem-solving.
+I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo University interested in Software Development and problem-solving.
 
 
 ## 🛠 Skills
