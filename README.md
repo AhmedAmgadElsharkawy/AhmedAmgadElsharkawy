@@ -1,5 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedAmgadEid2003&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedAmgad" /> </p>
 
 ## 🚀 About Me
 I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo University interested in Software Development and Problem-Solving.
