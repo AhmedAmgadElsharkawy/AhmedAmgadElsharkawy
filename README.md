@@ -1,4 +1,4 @@
-<h1 align="center" style="border: none;">Hi 👋, I'm Ahmed Amgad</h1>
+
 
 ## 🚀 About Me
 I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo University interested in Software Development and Problem-Solving.
