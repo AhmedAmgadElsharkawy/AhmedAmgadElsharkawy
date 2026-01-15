@@ -15,7 +15,9 @@ I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo U
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a> 
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -39,7 +41,7 @@ I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo U
 
 <h3 align="left">Frontend Development:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!-- Core Web -->
+  <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -47,7 +49,6 @@ I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo U
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 
-  <!-- Styling -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -57,8 +58,10 @@ I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo U
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/daisyui/daisyui-icon.svg" alt="daisyui" width="40" height="40"/>
   </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui" width="40" height="40"/>
+  </a>
 
-  <!-- Frontend -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -82,6 +85,11 @@ I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo U
 <h3 align="left">Backend Development:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- Backend Runtime & Framework -->
+
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
+  </a>
+  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -89,7 +97,12 @@ I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo U
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 
+
+
   <!-- Databases -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sqlserver" width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
