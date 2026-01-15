@@ -73,6 +73,9 @@ I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo U
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
+  <a href="https://tanstack.com/" target="_blank" rel="noreferrer">
+    <img src="./assets/icons/tanstack-icon.png" alt="tanstack" width="40" height="40"/>
+  </a>
 
   <!-- Desktop -->
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
