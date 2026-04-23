@@ -4,16 +4,36 @@ I'm a Systems and Biomedical Engineering Student @Faculty of Engineering-Cairo U
 ## ⚡ Tools
 
 ### Languages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language) "C")
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/ "C++")
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/ "C#")
+[![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/ "Java")
+[![Python](https://skillicons.dev/icons?i=py)](https://docs.python.org/3/ "Python")
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/ "TypeScript")
 
 ### Frontend Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5")
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS3")
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/docs/ "Bootstrap")
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs "Tailwind CSS")
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/ "React")
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/ "Redux")
+[![Qt](https://skillicons.dev/icons?i=qt)](https://doc.qt.io/ "Qt Framework")
 
 ### Backend Development:
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/en-us/dotnet/ ".NET Core")
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/docs/ "Node.js")
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/ "Express.js")
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/ "MongoDB")
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/docs/ "PostgreSQL")
+[![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs/ "Postman")
 
 ### Other Tools:
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/help/matlab/ "MATLAB")
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://docs.arduino.cc/ "Arduino")
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc "Git")
+[![Figma](https://skillicons.dev/icons?i=figma)](https://help.figma.com/ "Figma")
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineer-ahmed-amgad/)
